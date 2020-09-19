@@ -22,3 +22,9 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
 - [BETA] Play Music from YouTube
     - [BETA] Restricted Feature: Staff can play music from YouTube URLs.
 - Added Shit Code
+
+# Known Bugs:
+-The 3D2D Interface/GUI Doesn't show the proper time.
+![Image of Bug Report](https://i.imgur.com/pGd9176.jpg)
+    -Known Clientside Issue. Addressed by Facepunch out of my control
+        - To Remedy all of the Music have been convereted to WAV and should work on Windows however on Mac and Linux the Feature may be unreliable
