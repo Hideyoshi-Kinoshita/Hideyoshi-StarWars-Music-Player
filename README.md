@@ -28,3 +28,7 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
 ![Image of Bug Report](https://i.imgur.com/pGd9176.jpg)
     -Known Issue. Addressed by Facepunch~~
 As of 20.09.2020 this issue is fixed.
+
+# How to use:
+https://github.com/Hideyoshi-Kinoshita/Hideyoshi-StarWars-Music-Player/wiki
+See the Wiki for instructions and regulation on the Music Player
