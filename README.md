@@ -1,7 +1,7 @@
 # Hideyoshi-StarWars-Music-Player
 Created for the community of Imperial Gaming (All but the Serverside Code is available here)
 
-# Features:
+# Features & Improvements:
 - Enhanced LUA Code
     - No Longer using Sound.Play(DIRECTORY) instead creating actual Music Bases on GMOD using Sound.Add.
     - For Loops became a thing
@@ -21,6 +21,8 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
     - Added New Music and Removed Old Music (From Community Advice)
 - [BETA] Play Music from YouTube
     - [BETA] Restricted Feature: Staff can play music from YouTube URLs.
+- Better Global Music
+    - You can actually Control the Global Music's Volume now!~ No more Earrape :)
 - Added Shit Code
 
 # Known Bugs:
