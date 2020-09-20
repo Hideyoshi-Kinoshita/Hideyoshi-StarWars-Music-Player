@@ -8,6 +8,7 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
     - Ability to Stop Music without using a Networked RunConsoleCommand("stopsound") allowing more then
       one music player to be used at a time (If not using Global Setting)
     - Altered CSoundPatch:Play to Sound.Play to allow Staff to Control Pitch Volume and Level.
+    - Made the Derma Interface compatible with displays that are not 1920x1080
 - 3D2D Interface to allow Staff to better view the current music being emitted from the music player.
     - Via the 3D2D Interface Staff can:
         -View the Current Song that is playing.
@@ -26,5 +27,4 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
 # Known Bugs:
 -The 3D2D Interface/GUI Doesn't show the proper time.
 ![Image of Bug Report](https://i.imgur.com/pGd9176.jpg)
-    -Known Clientside Issue. Addressed by Facepunch out of my control
-        - To Remedy all of the Music have been convereted to WAV and should work on Windows however on Mac and Linux the Feature may be unreliable
+    -Known Issue. Addressed by Facepunch
