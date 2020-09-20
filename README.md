@@ -24,6 +24,7 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
 - Added Shit Code
 
 # Known Bugs:
--The 3D2D Interface/GUI Doesn't show the proper time.
+~~-The 3D2D Interface/GUI Doesn't show the proper time.
 ![Image of Bug Report](https://i.imgur.com/pGd9176.jpg)
-    -Known Issue. Addressed by Facepunch
+    -Known Issue. Addressed by Facepunch~~
+As of 20.09.2020 this issue is fixed.
