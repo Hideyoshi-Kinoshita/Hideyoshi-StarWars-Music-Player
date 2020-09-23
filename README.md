@@ -33,11 +33,11 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
 As of 20.09.2020 this issue is fixed by moving over to CSoundPatch Library.
 
 # Development Changelog
-19-09-2020
+- 19-09-2020
     Began work on the Code & YouTube-DL Python Code
-20-09-2020 
+- 20-09-2020 
     Completed Derma Interface
-21-03-2020
+- 21-03-2020
     Began Migration from Sound Library to CSoundPatch Library
 
 # How to use:
