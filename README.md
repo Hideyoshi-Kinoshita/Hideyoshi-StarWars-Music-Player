@@ -3,13 +3,13 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
 
 # Features & Improvements:
 - Enhanced LUA Code
-    - No Longer using Sound.Play(DIRECTORY) instead creating actual Music Bases on GMOD using Sound.Add.
     - For Loops became a thing
     - Ability to Stop Music without using a Networked RunConsoleCommand("stopsound") allowing more then
       one music player to be used at a time (If not using Global Setting)
-    - Altered CSoundPatch:Play to Sound.Play to allow Staff to Control Pitch Volume and Level.
+    - Altered CSoundPatch:Play to CSoundPatch:PlayEX to allow Staff to Control Pitch Volume and Level.
     - Made the Derma Interface compatible with displays that are not 1920x1080
     - Using CSoundPatch for Global Music - Begone Net Message Broadcast
+    - Stopped using Entity:EmitSound and the entirety of the Sound Library in favour for the CSoundPatch Library and CSoundPatch3D
 - 3D2D Interface to allow Staff to better view the current music being emitted from the music player. Via the 3D2D Interface Staff can:
     - View the Current Song that is playing.
     - Stop (Not Pause) the current song
@@ -30,7 +30,15 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
 ~~-The 3D2D Interface/GUI Doesn't show the proper time.
 ![Image of Bug Report](https://i.imgur.com/pGd9176.jpg)
     -Known Issue. Addressed by Facepunch~~
-As of 20.09.2020 this issue is fixed.
+As of 20.09.2020 this issue is fixed by moving over to CSoundPatch Library.
+
+# Development Changelog
+19-09-2020
+    Began work on the Code & YouTube-DL Python Code
+20-09-2020 
+    Completed Derma Interface
+21-03-2020
+    Began Migration from Sound Library to CSoundPatch Library
 
 # How to use:
 https://github.com/Hideyoshi-Kinoshita/Hideyoshi-StarWars-Music-Player/wiki
