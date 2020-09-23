@@ -21,7 +21,7 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
 - Updated Music
     - Added New Music and Removed Old Music (From Community Advice)
 - [BETA] Play Music from YouTube
-    - [BETA] Restricted Feature: Staff can play music from YouTube URLs.
+    - [BETA] Restricted Feature: Staff can play music from YouTube URLs or direct music links; Hoorah for Custom Music!
 - Better Global Music
     - You can actually Control the Global Music's Volume now!~ No more Earrape :)
 - Added Shit Code
