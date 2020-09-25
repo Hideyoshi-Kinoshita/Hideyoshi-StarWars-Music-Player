@@ -39,6 +39,8 @@ As of 20.09.2020 this issue is fixed by moving over to CSoundPatch Library.
     Completed Derma Interface
 - 21-03-2020
     Began Migration from Sound Library to CSoundPatch Library
+- 23-03-2020
+    Began Hiatus
 
 # How to use:
 https://github.com/Hideyoshi-Kinoshita/Hideyoshi-StarWars-Music-Player/wiki
