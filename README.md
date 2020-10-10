@@ -6,9 +6,7 @@ Created for the community of Imperial Gaming (All but the Serverside Code is ava
     - For Loops became a thing
     - Ability to Stop Music without using a Networked RunConsoleCommand("stopsound") allowing more then
       one music player to be used at a time (If not using Global Setting)
-    - Altered CSoundPatch:Play to CSoundPatch:PlayEX to allow Staff to Control Pitch Volume and Level.
     - Made the Derma Interface compatible with displays that are not 1920x1080
-    - Using CSoundPatch for Global Music - Begone Net Message Broadcast
     - Stopped using the CSoundPatch Library and Sound Library in favour of IGModAudioChannel
 - 3D2D Interface to allow Staff to better view the current music being emitted from the music player. Via the 3D2D Interface Staff can:
     - View the Current Song that is playing.
